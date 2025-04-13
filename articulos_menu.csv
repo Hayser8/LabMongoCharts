@@ -1,0 +1,11 @@
+id,nombre,descripcion,precio,categoria,imagen
+m1,Platillo 1,Delicioso platillo 1 con ingredientes frescos.,45.22,Plato Principal,http://example.com/platillo1.jpg
+m2,Platillo 2,Delicioso platillo 2 con ingredientes frescos.,32.42,Entrada,http://example.com/platillo2.jpg
+m3,Platillo 3,Delicioso platillo 3 con ingredientes frescos.,6.45,Postre,http://example.com/platillo3.jpg
+m4,Platillo 4,Delicioso platillo 4 con ingredientes frescos.,9.64,Plato Principal,http://example.com/platillo4.jpg
+m5,Platillo 5,Delicioso platillo 5 con ingredientes frescos.,9.35,Plato Principal,http://example.com/platillo5.jpg
+m6,Platillo 6,Delicioso platillo 6 con ingredientes frescos.,41.71,Postre,http://example.com/platillo6.jpg
+m7,Platillo 7,Delicioso platillo 7 con ingredientes frescos.,48.86,Postre,http://example.com/platillo7.jpg
+m8,Platillo 8,Delicioso platillo 8 con ingredientes frescos.,21.71,Postre,http://example.com/platillo8.jpg
+m9,Platillo 9,Delicioso platillo 9 con ingredientes frescos.,31.69,Postre,http://example.com/platillo9.jpg
+m10,Platillo 10,Delicioso platillo 10 con ingredientes frescos.,14.73,Plato Principal,http://example.com/platillo10.jpg

@@ -1,0 +1,31 @@
+id,usuarioId,restauranteId,ordenId,calificacion,comentario,fecha
+res1,u5,r6,o3,3,"No recomendado, mala experiencia.",2023-03-02
+res2,u16,r3,o2,1,"Muy bueno, pero el tiempo de espera fue largo.",2023-03-15
+res3,u1,r1,,1,"No recomendado, mala experiencia.",2023-03-21
+res4,u19,r6,o29,5,"Deficiente, no volvería.",2023-03-15
+res5,u3,r8,o15,3,"No recomendado, mala experiencia.",2023-03-15
+res6,u8,r5,o24,2,"Deficiente, no volvería.",2023-03-09
+res7,u20,r7,o12,1,"No recomendado, mala experiencia.",2023-03-19
+res8,u17,r8,,3,"Muy bueno, pero el tiempo de espera fue largo.",2023-03-21
+res9,u7,r3,,4,"No recomendado, mala experiencia.",2023-03-19
+res10,u8,r7,,1,Excelente servicio y comida deliciosa.,2023-03-19
+res11,u18,r3,o18,5,"Deficiente, no volvería.",2023-03-09
+res12,u2,r7,,3,"Muy bueno, pero el tiempo de espera fue largo.",2023-03-03
+res13,u18,r8,o6,5,"Deficiente, no volvería.",2023-03-04
+res14,u13,r8,,2,"Muy bueno, pero el tiempo de espera fue largo.",2023-03-22
+res15,u11,r9,,2,"No recomendado, mala experiencia.",2023-03-08
+res16,u7,r6,o16,1,"Deficiente, no volvería.",2023-03-28
+res17,u14,r4,,3,"Deficiente, no volvería.",2023-03-05
+res18,u11,r5,o29,5,Excelente servicio y comida deliciosa.,2023-03-04
+res19,u9,r5,o3,4,"Muy bueno, pero el tiempo de espera fue largo.",2023-03-13
+res20,u17,r6,o4,5,"No recomendado, mala experiencia.",2023-03-14
+res21,u1,r9,,2,"No recomendado, mala experiencia.",2023-03-04
+res22,u4,r3,o4,4,"No recomendado, mala experiencia.",2023-03-13
+res23,u7,r1,,5,"No recomendado, mala experiencia.",2023-03-21
+res24,u10,r5,o12,5,"Deficiente, no volvería.",2023-03-05
+res25,u19,r1,,5,"No recomendado, mala experiencia.",2023-03-19
+res26,u18,r2,o15,1,Excelente servicio y comida deliciosa.,2023-03-13
+res27,u13,r4,o16,5,"Deficiente, no volvería.",2023-03-12
+res28,u13,r9,o26,3,Excelente servicio y comida deliciosa.,2023-03-14
+res29,u11,r1,,1,"Regular, se puede mejorar la atención.",2023-03-06
+res30,u15,r1,,2,"Deficiente, no volvería.",2023-03-05
